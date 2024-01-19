@@ -16,4 +16,4 @@ jobs:
         with:
           project: ./
           browser: chrome
-          build: pnpm
+          build: npm install
